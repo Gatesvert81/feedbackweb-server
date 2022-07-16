@@ -1,4 +1,4 @@
-This repository is the server to [Feedback Web App](https://github.com/Gatesvert81/Feedback-Website). is a interractive comment section made with Nextjs (Reactjs), StyledComponents and MySQL database for storing data.
+This repository is the server to [Feedback Web App](https://github.com/Gatesvert81/Feedback-Website).Feedback Web App is a interractive comment section made with Nextjs (Reactjs), StyledComponents and MySQL database for storing data.
 
 ## Getting Started
 
